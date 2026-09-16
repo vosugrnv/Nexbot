@@ -1,0 +1,15 @@
+const fs = require("fs");
+const p = "C:/Users/Admin/Downloads/VuaProxy/js/product.js";
+let s = fs.readFileSync(p, "utf8");
+s = s.split("Vua MMO").join("Vua Proxy");
+s = s.replace(/Mua giá rẻ tại Vua Proxy/g, "Mua proxy tại Vua Proxy");
+s = s.replace(/giao tài khoản 5–15 phút/g, "giao proxy tự động");
+s = s.replace(/Bán bởi/g, "Cung cấp bởi");
+s = s.replace(/sàn Vua Proxy/g, "Vua Proxy");
+s = s.replace(/Xem shop/g, "Xem sản phẩm");
+s = s.replace(/Chat shop/g, "Chat hỗ trợ");
+s = s.replace(/trên sàn\./g, "trên website.");
+s = s.replace(/ví trên sàn/g, "ví trên website");
+s = s.replace(/shop hỗ trợ/g, "Vua Proxy hỗ trợ");
+fs.writeFileSync(p, s);
+console.log("left Vua MMO:", (s.match(/Vua MMO/g) || []).length);

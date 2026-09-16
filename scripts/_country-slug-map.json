@@ -1,0 +1,1142 @@
+[
+  {
+    "code": "us",
+    "oldSlug": "united-states",
+    "newSlug": "proxy-my",
+    "nameVi": "Mỹ"
+  },
+  {
+    "code": "gb",
+    "oldSlug": "united-kingdom",
+    "newSlug": "proxy-anh",
+    "nameVi": "Anh"
+  },
+  {
+    "code": "jp",
+    "oldSlug": "japan",
+    "newSlug": "proxy-nhat-ban",
+    "nameVi": "Nhật Bản"
+  },
+  {
+    "code": "de",
+    "oldSlug": "germany",
+    "newSlug": "proxy-duc",
+    "nameVi": "Đức"
+  },
+  {
+    "code": "fr",
+    "oldSlug": "france",
+    "newSlug": "proxy-phap",
+    "nameVi": "Pháp"
+  },
+  {
+    "code": "ca",
+    "oldSlug": "canada",
+    "newSlug": "proxy-canada",
+    "nameVi": "Canada"
+  },
+  {
+    "code": "bd",
+    "oldSlug": "bangladesh",
+    "newSlug": "proxy-bangladesh",
+    "nameVi": "Bangladesh"
+  },
+  {
+    "code": "in",
+    "oldSlug": "india",
+    "newSlug": "proxy-an-do",
+    "nameVi": "Ấn Độ"
+  },
+  {
+    "code": "id",
+    "oldSlug": "indonesia",
+    "newSlug": "proxy-indonesia",
+    "nameVi": "Indonesia"
+  },
+  {
+    "code": "hk",
+    "oldSlug": "hong-kong",
+    "newSlug": "proxy-hong-kong",
+    "nameVi": "Hồng Kông"
+  },
+  {
+    "code": "ae",
+    "oldSlug": "uae",
+    "newSlug": "proxy-uae",
+    "nameVi": "UAE"
+  },
+  {
+    "code": "au",
+    "oldSlug": "australia",
+    "newSlug": "proxy-uc",
+    "nameVi": "Úc"
+  },
+  {
+    "code": "af",
+    "oldSlug": "afghanistan",
+    "newSlug": "proxy-afghanistan",
+    "nameVi": "Afghanistan"
+  },
+  {
+    "code": "al",
+    "oldSlug": "albania",
+    "newSlug": "proxy-albania",
+    "nameVi": "Albania"
+  },
+  {
+    "code": "dz",
+    "oldSlug": "algeria",
+    "newSlug": "proxy-algeria",
+    "nameVi": "Algeria"
+  },
+  {
+    "code": "ad",
+    "oldSlug": "andorra",
+    "newSlug": "proxy-andorra",
+    "nameVi": "Andorra"
+  },
+  {
+    "code": "ao",
+    "oldSlug": "angola",
+    "newSlug": "proxy-angola",
+    "nameVi": "Angola"
+  },
+  {
+    "code": "ag",
+    "oldSlug": "antigua-and-barbuda",
+    "newSlug": "proxy-antigua",
+    "nameVi": "Antigua"
+  },
+  {
+    "code": "ar",
+    "oldSlug": "argentina",
+    "newSlug": "proxy-argentina",
+    "nameVi": "Argentina"
+  },
+  {
+    "code": "am",
+    "oldSlug": "armenia",
+    "newSlug": "proxy-armenia",
+    "nameVi": "Armenia"
+  },
+  {
+    "code": "at",
+    "oldSlug": "austria",
+    "newSlug": "proxy-ao",
+    "nameVi": "Áo"
+  },
+  {
+    "code": "az",
+    "oldSlug": "azerbaijan",
+    "newSlug": "proxy-azerbaijan",
+    "nameVi": "Azerbaijan"
+  },
+  {
+    "code": "bs",
+    "oldSlug": "bahamas",
+    "newSlug": "proxy-bahamas",
+    "nameVi": "Bahamas"
+  },
+  {
+    "code": "bh",
+    "oldSlug": "bahrain",
+    "newSlug": "proxy-bahrain",
+    "nameVi": "Bahrain"
+  },
+  {
+    "code": "bb",
+    "oldSlug": "barbados",
+    "newSlug": "proxy-barbados",
+    "nameVi": "Barbados"
+  },
+  {
+    "code": "by",
+    "oldSlug": "belarus",
+    "newSlug": "proxy-belarus",
+    "nameVi": "Belarus"
+  },
+  {
+    "code": "be",
+    "oldSlug": "belgium",
+    "newSlug": "proxy-bi",
+    "nameVi": "Bỉ"
+  },
+  {
+    "code": "bz",
+    "oldSlug": "belize",
+    "newSlug": "proxy-belize",
+    "nameVi": "Belize"
+  },
+  {
+    "code": "bj",
+    "oldSlug": "benin",
+    "newSlug": "proxy-benin",
+    "nameVi": "Benin"
+  },
+  {
+    "code": "bt",
+    "oldSlug": "bhutan",
+    "newSlug": "proxy-bhutan",
+    "nameVi": "Bhutan"
+  },
+  {
+    "code": "bo",
+    "oldSlug": "bolivia",
+    "newSlug": "proxy-bolivia",
+    "nameVi": "Bolivia"
+  },
+  {
+    "code": "ba",
+    "oldSlug": "bosnia-and-herzegovina",
+    "newSlug": "proxy-bosnia",
+    "nameVi": "Bosnia"
+  },
+  {
+    "code": "bw",
+    "oldSlug": "botswana",
+    "newSlug": "proxy-botswana",
+    "nameVi": "Botswana"
+  },
+  {
+    "code": "br",
+    "oldSlug": "brazil",
+    "newSlug": "proxy-brazil",
+    "nameVi": "Brazil"
+  },
+  {
+    "code": "bn",
+    "oldSlug": "brunei",
+    "newSlug": "proxy-brunei",
+    "nameVi": "Brunei"
+  },
+  {
+    "code": "bg",
+    "oldSlug": "bulgaria",
+    "newSlug": "proxy-bulgaria",
+    "nameVi": "Bulgaria"
+  },
+  {
+    "code": "bf",
+    "oldSlug": "burkina-faso",
+    "newSlug": "proxy-burkina-faso",
+    "nameVi": "Burkina Faso"
+  },
+  {
+    "code": "bi",
+    "oldSlug": "burundi",
+    "newSlug": "proxy-burundi",
+    "nameVi": "Burundi"
+  },
+  {
+    "code": "kh",
+    "oldSlug": "cambodia",
+    "newSlug": "proxy-campuchia",
+    "nameVi": "Campuchia"
+  },
+  {
+    "code": "cm",
+    "oldSlug": "cameroon",
+    "newSlug": "proxy-cameroon",
+    "nameVi": "Cameroon"
+  },
+  {
+    "code": "cv",
+    "oldSlug": "cape-verde",
+    "newSlug": "proxy-cape-verde",
+    "nameVi": "Cape Verde"
+  },
+  {
+    "code": "cf",
+    "oldSlug": "central-african-republic",
+    "newSlug": "proxy-car",
+    "nameVi": "CAR"
+  },
+  {
+    "code": "td",
+    "oldSlug": "chad",
+    "newSlug": "proxy-chad",
+    "nameVi": "Chad"
+  },
+  {
+    "code": "cl",
+    "oldSlug": "chile",
+    "newSlug": "proxy-chile",
+    "nameVi": "Chile"
+  },
+  {
+    "code": "cn",
+    "oldSlug": "china",
+    "newSlug": "proxy-trung-quoc",
+    "nameVi": "Trung Quốc"
+  },
+  {
+    "code": "co",
+    "oldSlug": "colombia",
+    "newSlug": "proxy-colombia",
+    "nameVi": "Colombia"
+  },
+  {
+    "code": "km",
+    "oldSlug": "comoros",
+    "newSlug": "proxy-comoros",
+    "nameVi": "Comoros"
+  },
+  {
+    "code": "cg",
+    "oldSlug": "congo",
+    "newSlug": "proxy-congo",
+    "nameVi": "Congo"
+  },
+  {
+    "code": "cr",
+    "oldSlug": "costa-rica",
+    "newSlug": "proxy-costa-rica",
+    "nameVi": "Costa Rica"
+  },
+  {
+    "code": "ci",
+    "oldSlug": "cote-d-ivoire",
+    "newSlug": "proxy-bo-bien-nga",
+    "nameVi": "Bờ Biển Ngà"
+  },
+  {
+    "code": "hr",
+    "oldSlug": "croatia",
+    "newSlug": "proxy-croatia",
+    "nameVi": "Croatia"
+  },
+  {
+    "code": "cu",
+    "oldSlug": "cuba",
+    "newSlug": "proxy-cuba",
+    "nameVi": "Cuba"
+  },
+  {
+    "code": "cy",
+    "oldSlug": "cyprus",
+    "newSlug": "proxy-sip",
+    "nameVi": "Síp"
+  },
+  {
+    "code": "cz",
+    "oldSlug": "czech-republic",
+    "newSlug": "proxy-sec",
+    "nameVi": "Séc"
+  },
+  {
+    "code": "dk",
+    "oldSlug": "denmark",
+    "newSlug": "proxy-dan-mach",
+    "nameVi": "Đan Mạch"
+  },
+  {
+    "code": "dj",
+    "oldSlug": "djibouti",
+    "newSlug": "proxy-djibouti",
+    "nameVi": "Djibouti"
+  },
+  {
+    "code": "dm",
+    "oldSlug": "dominica",
+    "newSlug": "proxy-dominica",
+    "nameVi": "Dominica"
+  },
+  {
+    "code": "do",
+    "oldSlug": "dominican-republic",
+    "newSlug": "proxy-dominica-ch",
+    "nameVi": "Dominica (CH)"
+  },
+  {
+    "code": "cd",
+    "oldSlug": "dr-congo",
+    "newSlug": "proxy-congo-drc",
+    "nameVi": "Congo (DRC)"
+  },
+  {
+    "code": "ec",
+    "oldSlug": "ecuador",
+    "newSlug": "proxy-ecuador",
+    "nameVi": "Ecuador"
+  },
+  {
+    "code": "eg",
+    "oldSlug": "egypt",
+    "newSlug": "proxy-ai-cap",
+    "nameVi": "Ai Cập"
+  },
+  {
+    "code": "sv",
+    "oldSlug": "el-salvador",
+    "newSlug": "proxy-el-salvador",
+    "nameVi": "El Salvador"
+  },
+  {
+    "code": "gq",
+    "oldSlug": "equatorial-guinea",
+    "newSlug": "proxy-equatorial-guinea",
+    "nameVi": "Equatorial Guinea"
+  },
+  {
+    "code": "er",
+    "oldSlug": "eritrea",
+    "newSlug": "proxy-eritrea",
+    "nameVi": "Eritrea"
+  },
+  {
+    "code": "ee",
+    "oldSlug": "estonia",
+    "newSlug": "proxy-estonia",
+    "nameVi": "Estonia"
+  },
+  {
+    "code": "sz",
+    "oldSlug": "eswatini",
+    "newSlug": "proxy-eswatini",
+    "nameVi": "Eswatini"
+  },
+  {
+    "code": "et",
+    "oldSlug": "ethiopia",
+    "newSlug": "proxy-ethiopia",
+    "nameVi": "Ethiopia"
+  },
+  {
+    "code": "fj",
+    "oldSlug": "fiji",
+    "newSlug": "proxy-fiji",
+    "nameVi": "Fiji"
+  },
+  {
+    "code": "fi",
+    "oldSlug": "finland",
+    "newSlug": "proxy-phan-lan",
+    "nameVi": "Phần Lan"
+  },
+  {
+    "code": "ga",
+    "oldSlug": "gabon",
+    "newSlug": "proxy-gabon",
+    "nameVi": "Gabon"
+  },
+  {
+    "code": "gm",
+    "oldSlug": "gambia",
+    "newSlug": "proxy-gambia",
+    "nameVi": "Gambia"
+  },
+  {
+    "code": "ge",
+    "oldSlug": "georgia",
+    "newSlug": "proxy-georgia",
+    "nameVi": "Georgia"
+  },
+  {
+    "code": "gh",
+    "oldSlug": "ghana",
+    "newSlug": "proxy-ghana",
+    "nameVi": "Ghana"
+  },
+  {
+    "code": "gi",
+    "oldSlug": "gibraltar",
+    "newSlug": "proxy-gibraltar",
+    "nameVi": "Gibraltar"
+  },
+  {
+    "code": "gr",
+    "oldSlug": "greece",
+    "newSlug": "proxy-hy-lap",
+    "nameVi": "Hy Lạp"
+  },
+  {
+    "code": "gd",
+    "oldSlug": "grenada",
+    "newSlug": "proxy-grenada",
+    "nameVi": "Grenada"
+  },
+  {
+    "code": "gt",
+    "oldSlug": "guatemala",
+    "newSlug": "proxy-guatemala",
+    "nameVi": "Guatemala"
+  },
+  {
+    "code": "gn",
+    "oldSlug": "guinea",
+    "newSlug": "proxy-guinea",
+    "nameVi": "Guinea"
+  },
+  {
+    "code": "gw",
+    "oldSlug": "guinea-bissau",
+    "newSlug": "proxy-guinea-bissau",
+    "nameVi": "Guinea-Bissau"
+  },
+  {
+    "code": "gy",
+    "oldSlug": "guyana",
+    "newSlug": "proxy-guyana",
+    "nameVi": "Guyana"
+  },
+  {
+    "code": "ht",
+    "oldSlug": "haiti",
+    "newSlug": "proxy-haiti",
+    "nameVi": "Haiti"
+  },
+  {
+    "code": "hn",
+    "oldSlug": "honduras",
+    "newSlug": "proxy-honduras",
+    "nameVi": "Honduras"
+  },
+  {
+    "code": "hu",
+    "oldSlug": "hungary",
+    "newSlug": "proxy-hungary",
+    "nameVi": "Hungary"
+  },
+  {
+    "code": "is",
+    "oldSlug": "iceland",
+    "newSlug": "proxy-iceland",
+    "nameVi": "Iceland"
+  },
+  {
+    "code": "ir",
+    "oldSlug": "iran",
+    "newSlug": "proxy-iran",
+    "nameVi": "Iran"
+  },
+  {
+    "code": "iq",
+    "oldSlug": "iraq",
+    "newSlug": "proxy-iraq",
+    "nameVi": "Iraq"
+  },
+  {
+    "code": "ie",
+    "oldSlug": "ireland",
+    "newSlug": "proxy-ireland",
+    "nameVi": "Ireland"
+  },
+  {
+    "code": "im",
+    "oldSlug": "isle-of-man",
+    "newSlug": "proxy-isle-of-man",
+    "nameVi": "Isle of Man"
+  },
+  {
+    "code": "il",
+    "oldSlug": "israel",
+    "newSlug": "proxy-israel",
+    "nameVi": "Israel"
+  },
+  {
+    "code": "it",
+    "oldSlug": "italy",
+    "newSlug": "proxy-y",
+    "nameVi": "Ý"
+  },
+  {
+    "code": "jm",
+    "oldSlug": "jamaica",
+    "newSlug": "proxy-jamaica",
+    "nameVi": "Jamaica"
+  },
+  {
+    "code": "jo",
+    "oldSlug": "jordan",
+    "newSlug": "proxy-jordan",
+    "nameVi": "Jordan"
+  },
+  {
+    "code": "kz",
+    "oldSlug": "kazakhstan",
+    "newSlug": "proxy-kazakhstan",
+    "nameVi": "Kazakhstan"
+  },
+  {
+    "code": "ke",
+    "oldSlug": "kenya",
+    "newSlug": "proxy-kenya",
+    "nameVi": "Kenya"
+  },
+  {
+    "code": "xk",
+    "oldSlug": "kosovo",
+    "newSlug": "proxy-kosovo",
+    "nameVi": "Kosovo"
+  },
+  {
+    "code": "kw",
+    "oldSlug": "kuwait",
+    "newSlug": "proxy-kuwait",
+    "nameVi": "Kuwait"
+  },
+  {
+    "code": "kg",
+    "oldSlug": "kyrgyzstan",
+    "newSlug": "proxy-kyrgyzstan",
+    "nameVi": "Kyrgyzstan"
+  },
+  {
+    "code": "la",
+    "oldSlug": "laos",
+    "newSlug": "proxy-lao",
+    "nameVi": "Lào"
+  },
+  {
+    "code": "lv",
+    "oldSlug": "latvia",
+    "newSlug": "proxy-latvia",
+    "nameVi": "Latvia"
+  },
+  {
+    "code": "lb",
+    "oldSlug": "lebanon",
+    "newSlug": "proxy-lebanon",
+    "nameVi": "Lebanon"
+  },
+  {
+    "code": "ls",
+    "oldSlug": "lesotho",
+    "newSlug": "proxy-lesotho",
+    "nameVi": "Lesotho"
+  },
+  {
+    "code": "lr",
+    "oldSlug": "liberia",
+    "newSlug": "proxy-liberia",
+    "nameVi": "Liberia"
+  },
+  {
+    "code": "ly",
+    "oldSlug": "libya",
+    "newSlug": "proxy-libya",
+    "nameVi": "Libya"
+  },
+  {
+    "code": "li",
+    "oldSlug": "liechtenstein",
+    "newSlug": "proxy-liechtenstein",
+    "nameVi": "Liechtenstein"
+  },
+  {
+    "code": "lt",
+    "oldSlug": "lithuania",
+    "newSlug": "proxy-lithuania",
+    "nameVi": "Lithuania"
+  },
+  {
+    "code": "lu",
+    "oldSlug": "luxembourg",
+    "newSlug": "proxy-luxembourg",
+    "nameVi": "Luxembourg"
+  },
+  {
+    "code": "mo",
+    "oldSlug": "macao",
+    "newSlug": "proxy-macao",
+    "nameVi": "Macao"
+  },
+  {
+    "code": "mg",
+    "oldSlug": "madagascar",
+    "newSlug": "proxy-madagascar",
+    "nameVi": "Madagascar"
+  },
+  {
+    "code": "mw",
+    "oldSlug": "malawi",
+    "newSlug": "proxy-malawi",
+    "nameVi": "Malawi"
+  },
+  {
+    "code": "my",
+    "oldSlug": "malaysia",
+    "newSlug": "proxy-malaysia",
+    "nameVi": "Malaysia"
+  },
+  {
+    "code": "mv",
+    "oldSlug": "maldives",
+    "newSlug": "proxy-maldives",
+    "nameVi": "Maldives"
+  },
+  {
+    "code": "ml",
+    "oldSlug": "mali",
+    "newSlug": "proxy-mali",
+    "nameVi": "Mali"
+  },
+  {
+    "code": "mt",
+    "oldSlug": "malta",
+    "newSlug": "proxy-malta",
+    "nameVi": "Malta"
+  },
+  {
+    "code": "mr",
+    "oldSlug": "mauritania",
+    "newSlug": "proxy-mauritania",
+    "nameVi": "Mauritania"
+  },
+  {
+    "code": "mu",
+    "oldSlug": "mauritius",
+    "newSlug": "proxy-mauritius",
+    "nameVi": "Mauritius"
+  },
+  {
+    "code": "mx",
+    "oldSlug": "mexico",
+    "newSlug": "proxy-mexico",
+    "nameVi": "Mexico"
+  },
+  {
+    "code": "md",
+    "oldSlug": "moldova",
+    "newSlug": "proxy-moldova",
+    "nameVi": "Moldova"
+  },
+  {
+    "code": "mc",
+    "oldSlug": "monaco",
+    "newSlug": "proxy-monaco",
+    "nameVi": "Monaco"
+  },
+  {
+    "code": "mn",
+    "oldSlug": "mongolia",
+    "newSlug": "proxy-mong-co",
+    "nameVi": "Mông Cổ"
+  },
+  {
+    "code": "me",
+    "oldSlug": "montenegro",
+    "newSlug": "proxy-montenegro",
+    "nameVi": "Montenegro"
+  },
+  {
+    "code": "ma",
+    "oldSlug": "morocco",
+    "newSlug": "proxy-morocco",
+    "nameVi": "Morocco"
+  },
+  {
+    "code": "mz",
+    "oldSlug": "mozambique",
+    "newSlug": "proxy-mozambique",
+    "nameVi": "Mozambique"
+  },
+  {
+    "code": "mm",
+    "oldSlug": "myanmar",
+    "newSlug": "proxy-myanmar",
+    "nameVi": "Myanmar"
+  },
+  {
+    "code": "na",
+    "oldSlug": "namibia",
+    "newSlug": "proxy-namibia",
+    "nameVi": "Namibia"
+  },
+  {
+    "code": "np",
+    "oldSlug": "nepal",
+    "newSlug": "proxy-nepal",
+    "nameVi": "Nepal"
+  },
+  {
+    "code": "nl",
+    "oldSlug": "netherlands",
+    "newSlug": "proxy-ha-lan",
+    "nameVi": "Hà Lan"
+  },
+  {
+    "code": "nz",
+    "oldSlug": "new-zealand",
+    "newSlug": "proxy-new-zealand",
+    "nameVi": "New Zealand"
+  },
+  {
+    "code": "ni",
+    "oldSlug": "nicaragua",
+    "newSlug": "proxy-nicaragua",
+    "nameVi": "Nicaragua"
+  },
+  {
+    "code": "ne",
+    "oldSlug": "niger",
+    "newSlug": "proxy-niger",
+    "nameVi": "Niger"
+  },
+  {
+    "code": "ng",
+    "oldSlug": "nigeria",
+    "newSlug": "proxy-nigeria",
+    "nameVi": "Nigeria"
+  },
+  {
+    "code": "kp",
+    "oldSlug": "north-korea",
+    "newSlug": "proxy-trieu-tien",
+    "nameVi": "Triều Tiên"
+  },
+  {
+    "code": "mk",
+    "oldSlug": "north-macedonia",
+    "newSlug": "proxy-bac-macedonia",
+    "nameVi": "Bắc Macedonia"
+  },
+  {
+    "code": "no",
+    "oldSlug": "norway",
+    "newSlug": "proxy-na-uy",
+    "nameVi": "Na Uy"
+  },
+  {
+    "code": "om",
+    "oldSlug": "oman",
+    "newSlug": "proxy-oman",
+    "nameVi": "Oman"
+  },
+  {
+    "code": "pk",
+    "oldSlug": "pakistan",
+    "newSlug": "proxy-pakistan",
+    "nameVi": "Pakistan"
+  },
+  {
+    "code": "ps",
+    "oldSlug": "palestine",
+    "newSlug": "proxy-palestine",
+    "nameVi": "Palestine"
+  },
+  {
+    "code": "pa",
+    "oldSlug": "panama",
+    "newSlug": "proxy-panama",
+    "nameVi": "Panama"
+  },
+  {
+    "code": "pg",
+    "oldSlug": "papua-new-guinea",
+    "newSlug": "proxy-papua-new-guinea",
+    "nameVi": "Papua New Guinea"
+  },
+  {
+    "code": "py",
+    "oldSlug": "paraguay",
+    "newSlug": "proxy-paraguay",
+    "nameVi": "Paraguay"
+  },
+  {
+    "code": "pe",
+    "oldSlug": "peru",
+    "newSlug": "proxy-peru",
+    "nameVi": "Peru"
+  },
+  {
+    "code": "ph",
+    "oldSlug": "philippines",
+    "newSlug": "proxy-philippines",
+    "nameVi": "Philippines"
+  },
+  {
+    "code": "pl",
+    "oldSlug": "poland",
+    "newSlug": "proxy-ba-lan",
+    "nameVi": "Ba Lan"
+  },
+  {
+    "code": "pt",
+    "oldSlug": "portugal",
+    "newSlug": "proxy-bo-dao-nha",
+    "nameVi": "Bồ Đào Nha"
+  },
+  {
+    "code": "pr",
+    "oldSlug": "puerto-rico",
+    "newSlug": "proxy-puerto-rico",
+    "nameVi": "Puerto Rico"
+  },
+  {
+    "code": "qa",
+    "oldSlug": "qatar",
+    "newSlug": "proxy-qatar",
+    "nameVi": "Qatar"
+  },
+  {
+    "code": "ro",
+    "oldSlug": "romania",
+    "newSlug": "proxy-romania",
+    "nameVi": "Romania"
+  },
+  {
+    "code": "ru",
+    "oldSlug": "russia",
+    "newSlug": "proxy-nga",
+    "nameVi": "Nga"
+  },
+  {
+    "code": "rw",
+    "oldSlug": "rwanda",
+    "newSlug": "proxy-rwanda",
+    "nameVi": "Rwanda"
+  },
+  {
+    "code": "kn",
+    "oldSlug": "saint-kitts-and-nevis",
+    "newSlug": "proxy-saint-kitts",
+    "nameVi": "Saint Kitts"
+  },
+  {
+    "code": "lc",
+    "oldSlug": "saint-lucia",
+    "newSlug": "proxy-saint-lucia",
+    "nameVi": "Saint Lucia"
+  },
+  {
+    "code": "vc",
+    "oldSlug": "saint-vincent",
+    "newSlug": "proxy-saint-vincent",
+    "nameVi": "Saint Vincent"
+  },
+  {
+    "code": "sm",
+    "oldSlug": "san-marino",
+    "newSlug": "proxy-san-marino",
+    "nameVi": "San Marino"
+  },
+  {
+    "code": "sa",
+    "oldSlug": "saudi-arabia",
+    "newSlug": "proxy-a-rap-xe-ut",
+    "nameVi": "Ả Rập Xê Út"
+  },
+  {
+    "code": "sn",
+    "oldSlug": "senegal",
+    "newSlug": "proxy-senegal",
+    "nameVi": "Senegal"
+  },
+  {
+    "code": "rs",
+    "oldSlug": "serbia",
+    "newSlug": "proxy-serbia",
+    "nameVi": "Serbia"
+  },
+  {
+    "code": "sc",
+    "oldSlug": "seychelles",
+    "newSlug": "proxy-seychelles",
+    "nameVi": "Seychelles"
+  },
+  {
+    "code": "sl",
+    "oldSlug": "sierra-leone",
+    "newSlug": "proxy-sierra-leone",
+    "nameVi": "Sierra Leone"
+  },
+  {
+    "code": "sg",
+    "oldSlug": "singapore",
+    "newSlug": "proxy-singapore",
+    "nameVi": "Singapore"
+  },
+  {
+    "code": "sk",
+    "oldSlug": "slovakia",
+    "newSlug": "proxy-slovakia",
+    "nameVi": "Slovakia"
+  },
+  {
+    "code": "si",
+    "oldSlug": "slovenia",
+    "newSlug": "proxy-slovenia",
+    "nameVi": "Slovenia"
+  },
+  {
+    "code": "so",
+    "oldSlug": "somalia",
+    "newSlug": "proxy-somalia",
+    "nameVi": "Somalia"
+  },
+  {
+    "code": "za",
+    "oldSlug": "south-africa",
+    "newSlug": "proxy-nam-phi",
+    "nameVi": "Nam Phi"
+  },
+  {
+    "code": "kr",
+    "oldSlug": "south-korea",
+    "newSlug": "proxy-han-quoc",
+    "nameVi": "Hàn Quốc"
+  },
+  {
+    "code": "ss",
+    "oldSlug": "south-sudan",
+    "newSlug": "proxy-nam-sudan",
+    "nameVi": "Nam Sudan"
+  },
+  {
+    "code": "es",
+    "oldSlug": "spain",
+    "newSlug": "proxy-tay-ban-nha",
+    "nameVi": "Tây Ban Nha"
+  },
+  {
+    "code": "lk",
+    "oldSlug": "sri-lanka",
+    "newSlug": "proxy-sri-lanka",
+    "nameVi": "Sri Lanka"
+  },
+  {
+    "code": "sd",
+    "oldSlug": "sudan",
+    "newSlug": "proxy-sudan",
+    "nameVi": "Sudan"
+  },
+  {
+    "code": "sr",
+    "oldSlug": "suriname",
+    "newSlug": "proxy-suriname",
+    "nameVi": "Suriname"
+  },
+  {
+    "code": "se",
+    "oldSlug": "sweden",
+    "newSlug": "proxy-thuy-dien",
+    "nameVi": "Thụy Điển"
+  },
+  {
+    "code": "ch",
+    "oldSlug": "switzerland",
+    "newSlug": "proxy-thuy-si",
+    "nameVi": "Thụy Sĩ"
+  },
+  {
+    "code": "sy",
+    "oldSlug": "syria",
+    "newSlug": "proxy-syria",
+    "nameVi": "Syria"
+  },
+  {
+    "code": "tw",
+    "oldSlug": "taiwan",
+    "newSlug": "proxy-dai-loan",
+    "nameVi": "Đài Loan"
+  },
+  {
+    "code": "tj",
+    "oldSlug": "tajikistan",
+    "newSlug": "proxy-tajikistan",
+    "nameVi": "Tajikistan"
+  },
+  {
+    "code": "tz",
+    "oldSlug": "tanzania",
+    "newSlug": "proxy-tanzania",
+    "nameVi": "Tanzania"
+  },
+  {
+    "code": "th",
+    "oldSlug": "thailand",
+    "newSlug": "proxy-thai-lan",
+    "nameVi": "Thái Lan"
+  },
+  {
+    "code": "tg",
+    "oldSlug": "togo",
+    "newSlug": "proxy-togo",
+    "nameVi": "Togo"
+  },
+  {
+    "code": "tt",
+    "oldSlug": "trinidad-and-tobago",
+    "newSlug": "proxy-trinidad",
+    "nameVi": "Trinidad"
+  },
+  {
+    "code": "tn",
+    "oldSlug": "tunisia",
+    "newSlug": "proxy-tunisia",
+    "nameVi": "Tunisia"
+  },
+  {
+    "code": "tr",
+    "oldSlug": "turkey",
+    "newSlug": "proxy-tho-nhi-ky",
+    "nameVi": "Thổ Nhĩ Kỳ"
+  },
+  {
+    "code": "tm",
+    "oldSlug": "turkmenistan",
+    "newSlug": "proxy-turkmenistan",
+    "nameVi": "Turkmenistan"
+  },
+  {
+    "code": "ug",
+    "oldSlug": "uganda",
+    "newSlug": "proxy-uganda",
+    "nameVi": "Uganda"
+  },
+  {
+    "code": "ua",
+    "oldSlug": "ukraine",
+    "newSlug": "proxy-ukraine",
+    "nameVi": "Ukraine"
+  },
+  {
+    "code": "uy",
+    "oldSlug": "uruguay",
+    "newSlug": "proxy-uruguay",
+    "nameVi": "Uruguay"
+  },
+  {
+    "code": "uz",
+    "oldSlug": "uzbekistan",
+    "newSlug": "proxy-uzbekistan",
+    "nameVi": "Uzbekistan"
+  },
+  {
+    "code": "va",
+    "oldSlug": "vatican-city",
+    "newSlug": "proxy-vatican",
+    "nameVi": "Vatican"
+  },
+  {
+    "code": "ve",
+    "oldSlug": "venezuela",
+    "newSlug": "proxy-venezuela",
+    "nameVi": "Venezuela"
+  },
+  {
+    "code": "vn",
+    "oldSlug": "vietnam",
+    "newSlug": "proxy-viet-nam",
+    "nameVi": "Việt Nam"
+  },
+  {
+    "code": "ye",
+    "oldSlug": "yemen",
+    "newSlug": "proxy-yemen",
+    "nameVi": "Yemen"
+  },
+  {
+    "code": "zm",
+    "oldSlug": "zambia",
+    "newSlug": "proxy-zambia",
+    "nameVi": "Zambia"
+  },
+  {
+    "code": "zw",
+    "oldSlug": "zimbabwe",
+    "newSlug": "proxy-zimbabwe",
+    "nameVi": "Zimbabwe"
+  }
+]
